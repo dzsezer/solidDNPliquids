@@ -8,6 +8,8 @@ The included files are as follows:
 3. paper1.py: Calls the plotting functions to make the figures of Paper I (mr-2023-1)
 4. paper2.py: Calls the plotting functions to make the figures of Paper II (mr-2023-2)
 
+The generated pdf plots are in the directory 'pdfs'.
+
 The experimental data analyzed in Paper II is in the directory 'data', which contains the following two files:
 1. figureS8-EPR.dat : EPR spectrum of BDPA shown in Fig. S8 of Kuzhelev, JACS, 144, 1164 (2022)
 2. figureS8-DNP.dat : DNP spectrum of BDPA shown in Fig. S8 of Kuzhelev, JACS, 144, 1164 (2022)
